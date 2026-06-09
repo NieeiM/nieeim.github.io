@@ -9,56 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/CV_JiahaoMei.pdf){: .btn .btn--info}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **M.S. in Computer Science**, Shanghai Jiao Tong University, 2025.9 - 2028.3
+  * X-LANCE Lab, advised by Prof. Mengyue Wu and Prof. Kai Yu
+  * Research: AI for mental health, audio-EEG decoding, affective computing, multimodal generation
+* **B.E. in Computer Science**, East China Normal University, 2021.9 - 2025.3
+  * ICALK Lab, advised by Prof. Daoguo Dong and Prof. Liang He
+  * Research: Controllable music generation, visual-audio cross-modal alignment
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Xiaomi Inc.**, XiaoAI PLUS · Speech Generation Team, 2026.1 - 2026.7
+  * Algorithm Engineer, advised by Heinrich Dinkel
+  * End-to-end mixed audio (speech, music, sound effects) generation research
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Alibaba Group**, Tongyi Lab · NLI Team, 2024.1 - 2024.8
+  * Algorithm Engineer, advised by Yuning Wu and Ming Yan
+  * LLM creative writing evaluation benchmark & unified audio generation framework research
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* **Languages**: Mandarin (native), English (CET-6: 544), Japanese
+* **Programming**: Python, C/C++, Shell
+* **Research**: Audio generation, LLM evaluation, multimodal learning, diffusion models, flow matching
+
+Awards & Honors
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Outstanding Graduate of Shanghai**, 2024
+* **National Scholarship** (CNY 10,000), ECNU 2/115, 2024
+* **Huaxin Scholarship** (CNY 15,000), ECNU 3/115, 2024
+* **China International College Students' Innovation Competition, Shanghai Gold Award** (Team Leader), 2024
+* **China Collegiate Computing Contest - Network Challenge, National Third Prize** (Team Leader), 2024
+* **National College Students' E-commerce Competition, Shanghai First Prize** (Team Leader), 2024
+* **Shanghai College Students' Computer Application Competition, Third Prize** (Team Leader), 2024
+* **ECNU Most Vibrant Project Award** (Team Leader), 2024
+* **Nezha Scholarship** (CNY 10,000), ECNU 2/115, 2023
+* **National Innovation & Entrepreneurship Training Program, Outstanding Completion & Paper** (Team Leader), 2023
+* **"Huichuang Youth" Shanghai Cultural Creativity Exhibition, First Prize**, 2023
