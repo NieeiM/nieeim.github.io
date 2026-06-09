@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/CV_JiahaoMei.pdf){: .btn .btn--info}
+[Download CV (English)](/files/resume-en.pdf){: .btn .btn--info} [下载简历 (中文)](/files/resume-zh_CN.pdf){: .btn .btn--info}
 
 Education
 ======

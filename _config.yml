@@ -13,9 +13,9 @@ title                    : "Jiahao Mei"
 title_separator          : "-"
 name                     : &name "Jiahao Mei"
 description              : &description "Jiahao Mei's academic homepage - Audio Understanding & Generation, LLM"
-url                      : https://jiahaomei.github.io
+url                      : https://nieeim.github.io
 baseurl                  : ""
-repository               : "jiahaomei/jiahaomei.github.io"
+repository               : "nieeim/nieeim.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
