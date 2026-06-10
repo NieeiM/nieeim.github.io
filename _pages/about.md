@@ -33,12 +33,12 @@ X-LANCE Lab, advised by Prof. Mengyue Wu and Prof. Kai Yu
 
 ## Work Experience
 
-**Xiaomi Inc. (Beijing)**, XiaoAI PLUS · Speech Generation Team, Algorithm Engineer, 2026.1 - 2026.7
+**Xiaomi Inc. (Beijing)**, XiaoAI PLUS · Speech Team, Algorithm Engineer, 2026.1 - 2026.7
 
 - Advised by [Heinrich Dinkel](https://scholar.google.com/citations?user=sn3DsXoAAAAJ&hl=en)
 - End-to-end mixed audio (speech, music, sound effects) generation system pretraining & optimization [Dasheng AudioGen](https://nieeim.github.io/Dasheng-AudioGen-Web/)
 
-**Alibaba Group (Hangzhou)**, Tongyi Lab · NLI Team, Algorithm Engineer, 2024.1 - 2024.8
+**Alibaba Group (Hangzhou)**, Tongyi Lab · NLP Team, Algorithm Engineer, 2024.1 - 2024.8
 
 - Advised by [Yuning Wu](https://scholar.google.com/citations?user=oDRYNicAAAAJ&hl=zh-CN) and [Ming Yan](https://scholar.google.com/citations?user=uIUfGxYAAAAJ&hl=zh-CN)
 - Multi-agent storybook generation system [MM-StoryAgent](https://arxiv.org/abs/2503.05242), deployed as [product](https://starlightai.ms.show/app)
