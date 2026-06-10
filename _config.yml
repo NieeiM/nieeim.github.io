@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jiahao Mei (梅嘉豪)"
   pronouns         : # example: "he/him"
-  bio              : "M.S. in Computer Science @ SJTU. Research on universal audio understanding & generation and LLMs."
+  bio              : "M.S. in Computer Science @ SJTU. Research on general audio understanding & generation and LLMs."
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username
   codepen          : # Username
   dribbble         : # Username
-  github           : "jiahaomei"
+  github           : "NieeiM"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 

@@ -1,10 +1,8 @@
 # main navigation
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "CV"
     url: /files/resume-en.pdf
 
-  - title: "中文"
-    url: /zh/
+  - title: "简历"
+    url: /files/resume-zh_CN.pdf
+
